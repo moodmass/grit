@@ -1,5 +1,5 @@
 Grit
-====
+======
 
 Grit gives you object oriented read/write access to Git repositories via Ruby.
 The main goals are stability and performance. To this end, some of the
